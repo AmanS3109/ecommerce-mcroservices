@@ -1,0 +1,18 @@
+# Node
+node_modules
+npm-debug.log
+pnpm-debug.log
+
+# Env files
+.env
+.env.*
+!*.example
+
+# Logs
+logs
+*.log
+
+# Build artifacts
+dist
+coverage
+
